@@ -1,0 +1,12 @@
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\bin\Debug\net6.0\MessageQueuesLibrary.deps.json
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\bin\Debug\net6.0\MessageQueuesLibrary.dll
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\bin\Debug\net6.0\MessageQueuesLibrary.pdb
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\obj\Debug\net6.0\MessageQueuesLibrary.csproj.AssemblyReference.cache
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\obj\Debug\net6.0\MessageQueuesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\obj\Debug\net6.0\MessageQueuesLibrary.AssemblyInfoInputs.cache
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\obj\Debug\net6.0\MessageQueuesLibrary.AssemblyInfo.cs
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\obj\Debug\net6.0\MessageQueuesLibrary.csproj.CoreCompileInputs.cache
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\obj\Debug\net6.0\MessageQueuesLibrary.dll
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\obj\Debug\net6.0\refint\MessageQueuesLibrary.dll
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\obj\Debug\net6.0\MessageQueuesLibrary.pdb
+C:\Learning\NetIntermediate\MessageQueues\MessageQueuesLibrary\obj\Debug\net6.0\ref\MessageQueuesLibrary.dll
