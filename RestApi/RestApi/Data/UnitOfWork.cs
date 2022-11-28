@@ -1,9 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using API.Interfaces;
-using AutoMapper;
 using RestApi.Interfaces;
 
 namespace RestApi.Data
@@ -17,6 +11,7 @@ namespace RestApi.Data
         }
 
         public ICategoryRepository CategoryRepository => new CategoryRepository(_context);
+        public IItemRepository ItemRepository => new ItemRepository(_context);
         public async Task<bool> Complete()
         {
             return await _context.SaveChangesAsync() > 0;
