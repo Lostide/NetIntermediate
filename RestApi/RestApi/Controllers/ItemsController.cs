@@ -38,7 +38,7 @@ namespace RestApi.Controllers
                 Category = category
             };
             _unitOfWork.ItemRepository.AddItem(item);
-            if (await _unitOfWork.Complete()) return Ok(item);
+            if (await _unitOfWork.Complete()) return CreatedAtAction(nameof(Post),item);
             return BadRequest("Failed to create Item");
         }
 

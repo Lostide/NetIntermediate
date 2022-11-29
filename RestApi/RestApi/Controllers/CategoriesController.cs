@@ -35,7 +35,7 @@ namespace RestApi.Controllers
         {
             var category = new Category() { Name = categoryDto.Name };
             _unitOfWork.CategoryRepository.AddCategory(category);
-            if (await _unitOfWork.Complete()) return Ok(category);
+            if (await _unitOfWork.Complete()) return CreatedAtAction(nameof(Post), category);
             return BadRequest("Failed to create category");
         }
 
